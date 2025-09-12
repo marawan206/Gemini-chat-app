@@ -51,7 +51,7 @@ Gemini is a real-time chat application built using the MERN (MongoDB, Express, R
 ## How to Run Locally
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/gemini-chat-app.git
+    git clone https://github.com/marawan206/gemini-chat-app.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -74,3 +74,4 @@ Gemini is a real-time chat application built using the MERN (MongoDB, Express, R
 
 ## License
 This project is licensed under the MIT License.
+
